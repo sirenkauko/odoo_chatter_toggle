@@ -16,7 +16,7 @@ The toggle state is saved in localStorage.
 Supports English and Finnish translations.
     """,
     'author': 'Kauko Sirén',
-    'website': 'https://github.com/sirenkauko/odoo_chatter_toggle',
+    'website': 'https://github.com/sirenkauko/odoo-addons',
     'license': 'LGPL-3',
     'depends': ['web', 'mail'],
     'data': [],

@@ -15,7 +15,7 @@ Clone or copy into your Odoo addons path and install:
 ```
 
 ## Author
-Kauko Sirén ([GitHub](https://github.com/sirenkauko/odoo_chatter_toggle))
+Kauko Sirén ([GitHub](https://github.com/sirenkauko/odoo-addons))
 
 ## License
 LGPL-3.0 or later.
